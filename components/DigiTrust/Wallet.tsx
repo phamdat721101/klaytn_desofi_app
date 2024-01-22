@@ -34,7 +34,7 @@ async function getTransactions(wallet: string) {
       "investor": data[0].investor,
       "tx_hash": "0x312n8b1",
       "type": "deposit",
-      "url": "http://localhost:300",
+      "url": `https://baobab.klaytnscope.com/account/${userAddress}?tabId=txList`,
       "amount": parseInt(data[0].amount),
       "timestamp": parseInt(data[0].timestamp)
     }

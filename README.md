@@ -22,6 +22,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![alt text](assets/Deposit.png)
 ### 4 - Withdraw profit
 ![alt text](assets/Withdraw.png)
+### 5 - Check transaction hash
+![alt text](assets/tx_hash.png)
 
 ## FAQ
 ### 1 - DigiTrust deployed to Klaytn Baobab testnet
